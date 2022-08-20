@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xXCleanXx
 - 👀 I’m interested in coding Minecraft plugins and Windows applications
-- 🌱 I’m currently learning C#, C and Java
+- 🌱 I’m currently learning C#, C, C++ and Java
 <!---- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...--->
 
