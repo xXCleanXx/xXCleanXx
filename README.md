@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xXCleanXx
+- 👋 Hi, I’m Sebastian Erdweg
 - 👀 I’m interested in coding Minecraft plugins and Windows applications
 - 🌱 I’m currently learning C#, C, C++ and Java
 <!---- 💞️ I’m looking to collaborate on ...
